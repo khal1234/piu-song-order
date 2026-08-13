@@ -13,7 +13,7 @@
 |---|---:|---|
 | `data/series_zone_order.csv` | 39 KB | 시리즈존(팩별 존) 안의 곡 순서. `확정도` 열이 판독 근거의 세기를 말한다 |
 | `data/level_zone_order.csv` | 206 KB | 난이도존(S1~S26 · D5~D29) 채널의 곡 순서 **예측** |
-| `data/channel_order.csv` | 11 KB | 숏컷·리믹스·풀송 전용 채널 순서. `상태` 열이 확정/예측을 가른다 |
+| `data/channel_order.csv` | 15 KB | 숏컷·리믹스·풀송 전용 채널 순서. `상태` 열이 확정/예측을 가른다 |
 | `level_zone_order.html` | 1362 KB | 난이도존을 채널별로 넘겨 보는 화면(단일 파일, 열면 바로 됨) |
 | `series_zone_order.html` | 156 KB | 시리즈존 화면 |
 
